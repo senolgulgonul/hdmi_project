@@ -1,0 +1,46 @@
+[
+ {
+  "InstFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/video_top.v",
+  "InstLine" : 24,
+  "InstName" : "video_top",
+  "ModuleFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/video_top.v",
+  "ModuleLine" : 24,
+  "ModuleName" : "video_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/video_top.v",
+    "InstLine" : 80,
+    "InstName" : "testpattern_inst",
+    "ModuleFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/testpattern.v",
+    "ModuleLine" : 18,
+    "ModuleName" : "testpattern"
+   },
+   {
+    "InstFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/video_top.v",
+    "InstLine" : 122,
+    "InstName" : "u_tmds_rpll",
+    "ModuleFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/video_top.v",
+    "InstLine" : 139,
+    "InstName" : "DVI_TX_Top_inst",
+    "ModuleFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/dvi_tx/dvi_tx.v",
+    "ModuleLine" : 1072,
+    "ModuleName" : "DVI_TX_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/dvi_tx/dvi_tx.v",
+      "InstLine" : 1103,
+      "InstName" : "rgb2dvi_inst",
+      "ModuleFile" : "D:/docs/ostim/digital/gowin/hdmi_project/src/dvi_tx/dvi_tx.v",
+      "ModuleLine" : 10,
+      "ModuleName" : "~rgb2dvi.DVI_TX_Top"
+     }
+    ]
+   }
+  ]
+ }
+]

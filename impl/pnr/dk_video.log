@@ -1,0 +1,29 @@
+Reading netlist file: "D:\docs\ostim\digital\gowin\hdmi_project\impl\gwsynthesis\dk_video.vg"
+Parsing netlist file "D:\docs\ostim\digital\gowin\hdmi_project\impl\gwsynthesis\dk_video.vg" completed
+Processing netlist completed
+Reading constraint file: "D:\docs\ostim\digital\gowin\hdmi_project\src\dk_video.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "D:\docs\ostim\digital\gowin\hdmi_project\impl\pnr\dk_video.power.html" completed
+Generate file "D:\docs\ostim\digital\gowin\hdmi_project\impl\pnr\dk_video.pin.html" completed
+Generate file "D:\docs\ostim\digital\gowin\hdmi_project\impl\pnr\dk_video.rpt.html" completed
+Generate file "D:\docs\ostim\digital\gowin\hdmi_project\impl\pnr\dk_video.rpt.txt" completed
+Generate file "D:\docs\ostim\digital\gowin\hdmi_project\impl\pnr\dk_video.tr.html" completed
+Sun Feb 22 11:05:49 2026
+
